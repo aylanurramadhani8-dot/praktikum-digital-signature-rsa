@@ -1,7 +1,5 @@
 """
 Tugas 2 - Membuat Digital Signature (RSA + SHA-256)
-Mata Kuliah: Kriptografi (Semester 3)
-Topik: Praktikum Digital Signature (RSA)
 """
 
 import argparse
