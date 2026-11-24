@@ -1,7 +1,5 @@
 """
-Tugas 1 - Generate Key Pair RSA (minimal 2048-bit)
-Mata Kuliah: Kriptografi (Semester 3)
-Topik: Praktikum Digital Signature (RSA)
+Tugas 1 - Generate Key Pair RSA
 """
 
 import argparse
